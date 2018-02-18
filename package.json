@@ -1,0 +1,26 @@
+{
+  "name": "omega2-dht22-nodejs",
+  "version": "0.1.0",
+  "description": "A node server for sensing and alerting temperature and humidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriskasza/omega2-dht22-nodejs.git"
+  },
+  "keywords": [
+    "omega2",
+    "dht22",
+    "nodejs",
+    "node",
+    "iot"
+  ],
+  "author": "Chris Kasza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chriskasza/omega2-dht22-nodejs/issues"
+  },
+  "homepage": "https://github.com/chriskasza/omega2-dht22-nodejs#readme"
+}
